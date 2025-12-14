@@ -1,0 +1,154 @@
+{
+  "results": [
+    {
+      "row": 2,
+      "company_name": "Berkshire Hathaway Homesale Realty - The Craig Hartranft Team",
+      "website": "http://www.lancasterhome.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 3,
+      "company_name": "Jennifer King RE/MAX Evolved",
+      "website": "https://www.jennifer-king.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 4,
+      "company_name": "The Moore Group Real Estate - Lancaster, PA Realtor",
+      "website": "https://themooregrouplancaster.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 5,
+      "company_name": "Life Changes Realty Group - Lancaster Office",
+      "website": "http://www.lifechangesrealty.org/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 6,
+      "company_name": "Lusk & Associates | Sotheby's International Realty",
+      "website": "https://www.luskandassociates.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 7,
+      "company_name": "The Mark Rebert Team - Lancaster Residential Realtors - Berkshire Hathaway Homesale Realty",
+      "website": "https://www.lancohomesale.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 8,
+      "company_name": "Home 1st Realty",
+      "website": "http://www.thehome1st.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 9,
+      "company_name": "The Clark Team",
+      "website": "",
+      "status": "No website"
+    },
+    {
+      "row": 10,
+      "company_name": "Faruk Sisic - Realtor - Cavalry Realty LLC",
+      "website": "https://www.faruksisic.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 11,
+      "company_name": "Berkshire Hathaway HomeServices Homesale Realty I North Pointe",
+      "website": "https://www.homesale.com/northpointe",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 12,
+      "company_name": "Berkshire Hathaway HomeServices Homesale Realty | Centerville",
+      "website": "https://www.homesale.com/centerville",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 13,
+      "company_name": "Chuck Honabach Team \u2013 Realty ONE Group Unlimited",
+      "website": "https://www.chuckhonabachteam.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 14,
+      "company_name": "Prime Home Real Estate",
+      "website": "http://primehome-realestate.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 15,
+      "company_name": "RE/MAX SmartHub Realty",
+      "website": "http://www.smarthubrealty.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 16,
+      "company_name": "PPM Real Estate, Inc",
+      "website": "http://www.ppmproperties.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 17,
+      "company_name": "Alan H. Cherkin Real Estate Incorporated",
+      "website": "http://alanhcherkin.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 18,
+      "company_name": "The Shreiner Group",
+      "website": "http://www.shreinergroup.com/",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 19,
+      "company_name": "Coldwell Banker Realty - Lancaster",
+      "website": "https://www.coldwellbankerhomes.com/pa/lancaster/office/lancaster/oid_5101/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=PA_Lancaster",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 20,
+      "company_name": "The Wissler Team of Coldwell Banker Realty",
+      "website": "https://golancasterhomes.com/?utm_source=gbp&utm_medium=organic",
+      "status": "Pending",
+      "needs_research": true
+    },
+    {
+      "row": 21,
+      "company_name": "The Marian Rutt Team",
+      "website": "http://www.listingslancaster.com/",
+      "status": "Pending",
+      "needs_research": true
+    }
+  ],
+  "col_indices": {
+    "companyName": 20,
+    "companyWebsite": 23,
+    "decision_maker_name": 31,
+    "unique_hook": 32,
+    "brand_tagline": 33,
+    "pain_point": 34,
+    "custom_subject": 35,
+    "custom_opener": 36,
+    "research_status": 37
+  }
+}

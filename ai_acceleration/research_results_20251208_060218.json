@@ -1,0 +1,74 @@
+[
+  {
+    "row": 9,
+    "research_status": "Failed: No URL",
+    "decision_maker_name": "",
+    "unique_hook": "",
+    "brand_tagline": "",
+    "custom_subject": "",
+    "custom_opener": ""
+  },
+  {
+    "row": 11,
+    "research_status": "Complete",
+    "decision_maker_name": "Open",
+    "unique_hook": "award-winning, luxury specialist",
+    "brand_tagline": "If you are looking for Lancaster realtors, Homesale Realty is the place for you! Our Lancaster, PA real estate agency is in a convenient location - co",
+    "custom_subject": "Open - award-winning approach?",
+    "custom_opener": "Hi Open, I noticed you're award-winning, luxury specialist."
+  },
+  {
+    "row": 12,
+    "research_status": "Complete",
+    "decision_maker_name": "Open",
+    "unique_hook": "luxury specialist",
+    "brand_tagline": "Homesale Realty has many realtors in Lancaster, PA ready to help you! Contact our Lancaster real estate agency today to get started!",
+    "custom_subject": "Open - luxury market question",
+    "custom_opener": "Hi Open, I noticed you're luxury specialist."
+  },
+  {
+    "row": 15,
+    "research_status": "Complete",
+    "decision_maker_name": "selling",
+    "unique_hook": "first-time buyer specialist",
+    "brand_tagline": "Search homes for sale in Lancaster County, PA. Listings include large photos, virtual tours, Google maps & Street View, local school info and more.",
+    "custom_subject": "selling - your niche expertise?",
+    "custom_opener": "Hi selling, I noticed you're first-time buyer specialist."
+  },
+  {
+    "row": 19,
+    "research_status": "Complete",
+    "decision_maker_name": "McCormac",
+    "unique_hook": "commercial real estate",
+    "brand_tagline": "The Coldwell Banker Realty Lancaster Real Estate Office serves Lancaster, PA and the surrounding areas.",
+    "custom_subject": "McCormac - quick question for you",
+    "custom_opener": "Hi McCormac, I noticed you're commercial real estate."
+  },
+  {
+    "row": 20,
+    "research_status": "Complete",
+    "decision_maker_name": "and",
+    "unique_hook": "61+ years experience, luxury specialist",
+    "brand_tagline": "Looking for Lancaster real estate? Discover unparalleled expertise with the Wissler Team and find your dream home today!",
+    "custom_subject": "and - impressive track record?",
+    "custom_opener": "Hi and, I noticed you're 61+ years experience, luxury specialist."
+  },
+  {
+    "row": 21,
+    "research_status": "Failed: HTTP 403 Blocked",
+    "decision_maker_name": "",
+    "unique_hook": "",
+    "brand_tagline": "",
+    "custom_subject": "",
+    "custom_opener": ""
+  },
+  {
+    "row": 473,
+    "research_status": "Failed: HTTP 403 Blocked",
+    "decision_maker_name": "",
+    "unique_hook": "",
+    "brand_tagline": "",
+    "custom_subject": "",
+    "custom_opener": ""
+  }
+]

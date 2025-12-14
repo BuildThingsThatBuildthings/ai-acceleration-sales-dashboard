@@ -1,0 +1,82 @@
+[
+  {
+    "row": 2,
+    "company_name": "Berkshire Hathaway Homesale Realty - The Craig Hartranft Team",
+    "decision_maker_name": "Craig Hartranft",
+    "brand_tagline": "Our primary focus is on YOU, the client",
+    "unique_hook": "30+ years experience, #1 team in Lancaster County, ranked #4 nationally, sold 444 homes in 2024",
+    "custom_subject": "Craig - 444 homes sold in 2024?",
+    "custom_opener": "Craig, I saw your team ranked #4 nationally for homes sold. With 30+ years in Lancaster County and over 20 team members, you have clearly built something impressive.",
+    "research_status": "Complete"
+  },
+  {
+    "row": 3,
+    "company_name": "Jennifer King RE/MAX Evolved",
+    "decision_maker_name": "Jennifer King",
+    "brand_tagline": "Your Dreams. Our Passion Is To Help You Turn Dreams Into Realty Reality",
+    "unique_hook": "Licensed since 2000, RE/MAX Hall of Fame, 2019 Realtor of the Year, donates to Children Miracle Network",
+    "custom_subject": "Jennifer - Hall of Fame + giving back?",
+    "custom_opener": "Jennifer, I noticed you are in the RE/MAX Hall of Fame and were named 2019 Realtor of the Year. Plus, donating commission to Children Miracle Network is a beautiful touch.",
+    "research_status": "Complete"
+  },
+  {
+    "row": 4,
+    "company_name": "The Moore Group Real Estate - Lancaster, PA Realtor",
+    "decision_maker_name": "The Moore Group",
+    "brand_tagline": "Trusted real estate resource in Lancaster PA",
+    "unique_hook": "Serves 4 counties (Lancaster, Chester, Lebanon, York), affiliated with Keller Williams Elite",
+    "custom_subject": "Moore Group - 4 county coverage?",
+    "custom_opener": "I see you cover Lancaster, Chester, Lebanon, and York counties with Keller Williams Elite. That is an impressive service area for your team.",
+    "research_status": "Complete"
+  },
+  {
+    "row": 5,
+    "company_name": "Life Changes Realty Group - Lancaster Office",
+    "decision_maker_name": "Unknown",
+    "brand_tagline": "",
+    "unique_hook": "",
+    "custom_subject": "",
+    "custom_opener": "",
+    "research_status": "Website fetch failed - Wix site"
+  },
+  {
+    "row": 6,
+    "company_name": "Lusk & Associates | Sotheby International Realty",
+    "decision_maker_name": "Lusk & Associates",
+    "brand_tagline": "Success is built on relationships, integrity, and a commitment to excellence",
+    "unique_hook": "25+ years, 26 sales associates, $143B annual sales, 1,115 offices in 84 countries, Sotheby affiliate",
+    "custom_subject": "Lusk - 25 years + Sotheby prestige?",
+    "custom_opener": "I noticed you have been active in Lancaster for 25+ years with 26 associates. Being affiliated with Sotheby International Realty with that global reach is quite the platform.",
+    "research_status": "Complete"
+  },
+  {
+    "row": 7,
+    "company_name": "The Mark Rebert Team - Lancaster Residential Realtors",
+    "decision_maker_name": "Mark Rebert",
+    "brand_tagline": "",
+    "unique_hook": "Lancaster PA specialist, uses YLOPO tech platform",
+    "custom_subject": "Mark - tech-forward approach?",
+    "custom_opener": "Mark, I see you are using some solid tech like YLOPO for your Lancaster listings. Always good to see agents embracing modern tools.",
+    "research_status": "Complete"
+  },
+  {
+    "row": 8,
+    "company_name": "Home 1st Realty",
+    "decision_maker_name": "Ada Rivera",
+    "brand_tagline": "Committed to providing a world-class real estate experience",
+    "unique_hook": "Bilingual (Spanish/English), serves 5 counties, focuses on first-time homebuyers",
+    "custom_subject": "Ada - bilingual + first-time buyers?",
+    "custom_opener": "Ada, I love that you focus on Spanish/English service for first-time homebuyers across 5 counties. That is filling an important need in the Lancaster market.",
+    "research_status": "Complete"
+  },
+  {
+    "row": 10,
+    "company_name": "Faruk Sisic - Realtor - Cavalry Realty LLC",
+    "decision_maker_name": "Faruk Sisic",
+    "brand_tagline": "You can expect honesty, respect, constant communication and highest quality service",
+    "unique_hook": "21+ years full-time (since 2004), serves 5 counties, emphasis on negotiation",
+    "custom_subject": "Faruk - 21 years strong?",
+    "custom_opener": "Faruk, 21+ years as a full-time realtor since 2004 shows serious staying power. Your emphasis on negotiation skills really comes through on your site.",
+    "research_status": "Complete"
+  }
+]

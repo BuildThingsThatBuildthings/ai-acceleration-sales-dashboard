@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+credentials.json
+*.pem
+
+# Temporary files
+.tmp/
+*.log
+
+# Next.js
+.next/
+out/
+
+# Build
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Claude
+.claude/plans/
+*.json
